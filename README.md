@@ -1,0 +1,1 @@
+This is a simple python script that allows you to select a folder to sort all of the files by entension. You select a destination repo and will create the necesary folders and place the files in them. 
